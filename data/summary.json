@@ -1,0 +1,24 @@
+{
+  "api_rows": 217,
+  "web_rows": 250,
+  "matched_rows": 216,
+  "analysis_rows": 216,
+  "unmatched_api": 1,
+  "unmatched_web": 34,
+  "api_missing": 6,
+  "web_missing": 8,
+  "pearson": 0.4443525477849571,
+  "spearman": 0.8355885611812537,
+  "log_pearson": 0.8690048625489945,
+  "findings": [
+    "Coverage: 217 API economies/territories and 250 HTML records produce 216 code matches; 216 positive-value rows are used for EDA.",
+    "Largest population in the matched sample: India, 1,450,935,791 people in 2024.",
+    "Largest webpage surface area in the matched sample: Russian Federation, 17,100,000 km².",
+    "Population-area correlations: raw Pearson 0.444, Spearman 0.836, log10 Pearson 0.869. These are descriptive associations, not causation.",
+    "Highest approximate density in the matched sample: Monaco, 19,810.8 people/km². The area reference year is unknown.",
+    "Kazakhstan: 20,592,571 people (2024), 2,717,300 km² (webpage), approximately 7.58 people/km²."
+  ],
+  "execution_utc": "2026-10-08T21:53:58.494419+00:00",
+  "mode": "live",
+  "api_lastupdated": "2026-10-08"
+}

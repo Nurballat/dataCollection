@@ -1,0 +1,4 @@
+measure,correlation,n
+Pearson (raw),0.4443525477849571,216
+Spearman (ranks),0.8355885611812537,216
+Pearson (log10),0.8690048625489945,216

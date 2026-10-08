@@ -1,0 +1,217 @@
+iso3,iso2,country,capital_api,region,income_level,year,population_2024,country_web,capital_web,population_web,area_km2
+AFG,AF,Afghanistan,Kabul,"Middle East, North Africa, Afghanistan & Pakistan",Low income,2024,42647492,Afghanistan,Kabul,29121286,647500.0
+ALB,AL,Albania,Tirane,Europe & Central Asia,Upper middle income,2024,2377128,Albania,Tirana,2986952,28748.0
+DZA,DZ,Algeria,Algiers,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2024,46814308,Algeria,Algiers,34586184,2381740.0
+ASM,AS,American Samoa,Pago Pago,East Asia & Pacific,High income,2024,46765,American Samoa,Pago Pago,57881,199.0
+AND,AD,Andorra,Andorra la Vella,Europe & Central Asia,High income,2024,81938,Andorra,Andorra la Vella,84000,468.0
+AGO,AO,Angola,Luanda,Sub-Saharan Africa,Lower middle income,2024,37885849,Angola,Luanda,13068161,1246700.0
+ATG,AG,Antigua and Barbuda,Saint John's,Latin America & Caribbean,High income,2024,93772,Antigua and Barbuda,St. John's,86754,443.0
+ARG,AR,Argentina,Buenos Aires,Latin America & Caribbean,Upper middle income,2024,45696159,Argentina,Buenos Aires,41343201,2766890.0
+ARM,AM,Armenia,Yerevan,Europe & Central Asia,Upper middle income,2024,3033500,Armenia,Yerevan,2968000,29800.0
+ABW,AW,Aruba,Oranjestad,Latin America & Caribbean,High income,2024,107995,Aruba,Oranjestad,71566,193.0
+AUS,AU,Australia,Canberra,East Asia & Pacific,High income,2024,27194286,Australia,Canberra,21515754,7686850.0
+AUT,AT,Austria,Vienna,Europe & Central Asia,High income,2024,9177982,Austria,Vienna,8205000,83858.0
+AZE,AZ,Azerbaijan,Baku,Europe & Central Asia,Upper middle income,2024,10202830,Azerbaijan,Baku,8303512,86600.0
+BHS,BS,"Bahamas, The",Nassau,Latin America & Caribbean,High income,2024,401283,Bahamas,Nassau,301790,13940.0
+BHR,BH,Bahrain,Manama,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024,1588670,Bahrain,Manama,738004,665.0
+BGD,BD,Bangladesh,Dhaka,South Asia,Lower middle income,2024,173562364,Bangladesh,Dhaka,156118464,144000.0
+BRB,BB,Barbados,Bridgetown,Latin America & Caribbean,High income,2024,282467,Barbados,Bridgetown,285653,431.0
+BLR,BY,Belarus,Minsk,Europe & Central Asia,Upper middle income,2024,9132629,Belarus,Minsk,9685000,207600.0
+BEL,BE,Belgium,Brussels,Europe & Central Asia,High income,2024,11858610,Belgium,Brussels,10403000,30510.0
+BLZ,BZ,Belize,Belmopan,Latin America & Caribbean,Upper middle income,2024,417072,Belize,Belmopan,314522,22966.0
+BEN,BJ,Benin,Porto-Novo,Sub-Saharan Africa,Lower middle income,2024,14462724,Benin,Porto-Novo,9056010,112620.0
+BMU,BM,Bermuda,Hamilton,North America,High income,2024,64636,Bermuda,Hamilton,65365,53.0
+BTN,BT,Bhutan,Thimphu,South Asia,Lower middle income,2024,791524,Bhutan,Thimphu,699847,47000.0
+BOL,BO,Bolivia,La Paz,Latin America & Caribbean,Lower middle income,2024,12413315,Bolivia,Sucre,9947418,1098580.0
+BIH,BA,Bosnia and Herzegovina,Sarajevo,Europe & Central Asia,Upper middle income,2024,3164253,Bosnia and Herzegovina,Sarajevo,4590000,51129.0
+BWA,BW,Botswana,Gaborone,Sub-Saharan Africa,Upper middle income,2024,2521139,Botswana,Gaborone,2029307,600370.0
+BRA,BR,Brazil,Brasilia,Latin America & Caribbean,Upper middle income,2024,211998573,Brazil,Brasília,201103330,8511965.0
+VGB,VG,British Virgin Islands,Road Town,Latin America & Caribbean,High income,2024,39471,British Virgin Islands,Road Town,21730,153.0
+BRN,BN,Brunei Darussalam,Bandar Seri Begawan,East Asia & Pacific,High income,2024,462721,Brunei,Bandar Seri Begawan,395027,5770.0
+BGR,BG,Bulgaria,Sofia,Europe & Central Asia,High income,2024,6441421,Bulgaria,Sofia,7148785,110910.0
+BFA,BF,Burkina Faso,Ouagadougou,Sub-Saharan Africa,Low income,2024,23548781,Burkina Faso,Ouagadougou,16241811,274200.0
+BDI,BI,Burundi,Bujumbura,Sub-Saharan Africa,Low income,2024,14047786,Burundi,Bujumbura,9863117,27830.0
+CPV,CV,Cabo Verde,Praia,Sub-Saharan Africa,Upper middle income,2024,524877,Cape Verde,Praia,508659,4033.0
+KHM,KH,Cambodia,Phnom Penh,East Asia & Pacific,Lower middle income,2024,17638801,Cambodia,Phnom Penh,14453680,181040.0
+CMR,CM,Cameroon,Yaounde,Sub-Saharan Africa,Lower middle income,2024,29123744,Cameroon,Yaoundé,19294149,475440.0
+CAN,CA,Canada,Ottawa,North America,High income,2024,41262329,Canada,Ottawa,33679000,9984670.0
+CYM,KY,Cayman Islands,George Town,Latin America & Caribbean,High income,2024,74457,Cayman Islands,George Town,44270,262.0
+CAF,CF,Central African Republic,Bangui,Sub-Saharan Africa,Low income,2024,5330690,Central African Republic,Bangui,4844927,622984.0
+TCD,TD,Chad,N'Djamena,Sub-Saharan Africa,Low income,2024,20299123,Chad,N'Djamena,10543464,1284000.0
+CHL,CL,Chile,Santiago,Latin America & Caribbean,High income,2024,19764771,Chile,Santiago,16746491,756950.0
+CHN,CN,China,Beijing,East Asia & Pacific,Upper middle income,2024,1408975000,China,Beijing,1330044000,9596960.0
+COL,CO,Colombia,Bogota,Latin America & Caribbean,Upper middle income,2024,52886363,Colombia,Bogotá,47790000,1138910.0
+COM,KM,Comoros,Moroni,Sub-Saharan Africa,Lower middle income,2024,866628,Comoros,Moroni,773407,2170.0
+COD,CD,"Congo, Dem. Rep.",Kinshasa,Sub-Saharan Africa,Low income,2024,109276265,Democratic Republic of the Congo,Kinshasa,70916439,2345410.0
+COG,CG,"Congo, Rep.",Brazzaville,Sub-Saharan Africa,Lower middle income,2024,6332961,Republic of the Congo,Brazzaville,3039126,342000.0
+CRI,CR,Costa Rica,San Jose,Latin America & Caribbean,High income,2024,5129910,Costa Rica,San José,4516220,51100.0
+CIV,CI,Cote d'Ivoire,Yamoussoukro,Sub-Saharan Africa,Lower middle income,2024,31934230,Ivory Coast,Yamoussoukro,21058798,322460.0
+HRV,HR,Croatia,Zagreb,Europe & Central Asia,High income,2024,3866200,Croatia,Zagreb,4491000,56542.0
+CUB,CU,Cuba,Havana,Latin America & Caribbean,Upper middle income,2024,10979783,Cuba,Havana,11423000,110860.0
+CUW,CW,Curacao,Willemstad,Latin America & Caribbean,High income,2024,155967,Curacao,Willemstad,141766,444.0
+CYP,CY,Cyprus,Nicosia,Europe & Central Asia,High income,2024,1358282,Cyprus,Nicosia,1102677,9250.0
+CZE,CZ,Czechia,Prague,Europe & Central Asia,High income,2024,10905028,Czech Republic,Prague,10476000,78866.0
+DNK,DK,Denmark,Copenhagen,Europe & Central Asia,High income,2024,5976992,Denmark,Copenhagen,5484000,43094.0
+DJI,DJ,Djibouti,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2024,1168722,Djibouti,Djibouti,740528,23000.0
+DMA,DM,Dominica,Roseau,Latin America & Caribbean,Upper middle income,2024,66205,Dominica,Roseau,72813,754.0
+DOM,DO,Dominican Republic,Santo Domingo,Latin America & Caribbean,Upper middle income,2024,11427557,Dominican Republic,Santo Domingo,9823821,48730.0
+ECU,EC,Ecuador,Quito,Latin America & Caribbean,Upper middle income,2024,18135478,Ecuador,Quito,14790608,283560.0
+EGY,EG,"Egypt, Arab Rep.",Cairo,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2024,116538258,Egypt,Cairo,80471869,1001450.0
+SLV,SV,El Salvador,San Salvador,Latin America & Caribbean,Upper middle income,2024,6338193,El Salvador,San Salvador,6052064,21040.0
+GNQ,GQ,Equatorial Guinea,Malabo,Sub-Saharan Africa,Upper middle income,2024,1892516,Equatorial Guinea,Malabo,1014999,28051.0
+ERI,ER,Eritrea,Asmara,Sub-Saharan Africa,Low income,2024,3535603,Eritrea,Asmara,5792984,121320.0
+EST,EE,Estonia,Tallinn,Europe & Central Asia,High income,2024,1372341,Estonia,Tallinn,1291170,45226.0
+SWZ,SZ,Eswatini,Mbabane,Sub-Saharan Africa,Lower middle income,2024,1242822,Swaziland,Mbabane,1354051,17363.0
+ETH,ET,Ethiopia,Addis Ababa,Sub-Saharan Africa,Low income,2024,132059767,Ethiopia,Addis Ababa,88013491,1127127.0
+FRO,FO,Faroe Islands,Torshavn,Europe & Central Asia,High income,2024,54640,Faroe Islands,Tórshavn,48228,1399.0
+FJI,FJ,Fiji,Suva,East Asia & Pacific,Upper middle income,2024,928784,Fiji,Suva,875983,18270.0
+FIN,FI,Finland,Helsinki,Europe & Central Asia,High income,2024,5619911,Finland,Helsinki,5244000,337030.0
+FRA,FR,France,Paris,Europe & Central Asia,High income,2024,68551653,France,Paris,64768389,547030.0
+PYF,PF,French Polynesia,Papeete,East Asia & Pacific,High income,2024,281807,French Polynesia,Papeete,270485,4167.0
+GAB,GA,Gabon,Libreville,Sub-Saharan Africa,Upper middle income,2024,2538952,Gabon,Libreville,1545255,267667.0
+GMB,GM,"Gambia, The",Banjul,Sub-Saharan Africa,Low income,2024,2759988,Gambia,Bathurst,1593256,11300.0
+GEO,GE,Georgia,Tbilisi,Europe & Central Asia,Upper middle income,2024,3812518,Georgia,Tbilisi,4630000,69700.0
+DEU,DE,Germany,Berlin,Europe & Central Asia,High income,2024,83516593,Germany,Berlin,81802257,357021.0
+GHA,GH,Ghana,Accra,Sub-Saharan Africa,Lower middle income,2024,34427414,Ghana,Accra,24339838,239460.0
+GIB,GI,Gibraltar,,Europe & Central Asia,High income,2024,39329,Gibraltar,Gibraltar,27884,6.5
+GRC,GR,Greece,Athens,Europe & Central Asia,High income,2024,10405134,Greece,Athens,11000000,131940.0
+GRL,GL,Greenland,Nuuk,Europe & Central Asia,High income,2024,56836,Greenland,Nuuk,56375,2166086.0
+GRD,GD,Grenada,Saint George's,Latin America & Caribbean,Upper middle income,2024,117207,Grenada,St. George's,107818,344.0
+GUM,GU,Guam,Agana,East Asia & Pacific,High income,2024,167777,Guam,Hagåtña,159358,549.0
+GTM,GT,Guatemala,Guatemala City,Latin America & Caribbean,Upper middle income,2024,18406359,Guatemala,Guatemala City,13550440,108890.0
+GIN,GN,Guinea,Conakry,Sub-Saharan Africa,Lower middle income,2024,14754785,Guinea,Conakry,10324025,245857.0
+GNB,GW,Guinea-Bissau,Bissau,Sub-Saharan Africa,Low income,2024,2201352,Guinea-Bissau,Bissau,1565126,36120.0
+GUY,GY,Guyana,Georgetown,Latin America & Caribbean,High income,2024,831087,Guyana,Georgetown,748486,214970.0
+HTI,HT,Haiti,Port-au-Prince,Latin America & Caribbean,Lower middle income,2024,11772557,Haiti,Port-au-Prince,9648924,27750.0
+HND,HN,Honduras,Tegucigalpa,Latin America & Caribbean,Lower middle income,2024,10825703,Honduras,Tegucigalpa,7989415,112090.0
+HKG,HK,"Hong Kong SAR, China",,East Asia & Pacific,High income,2024,7524100,Hong Kong,Hong Kong,6898686,1092.0
+HUN,HU,Hungary,Budapest,Europe & Central Asia,High income,2024,9562065,Hungary,Budapest,9982000,93030.0
+ISL,IS,Iceland,Reykjavik,Europe & Central Asia,High income,2024,386506,Iceland,Reykjavik,308910,103000.0
+IND,IN,India,New Delhi,South Asia,Lower middle income,2024,1450935791,India,New Delhi,1173108018,3287590.0
+IDN,ID,Indonesia,Jakarta,East Asia & Pacific,Upper middle income,2024,283487931,Indonesia,Jakarta,242968342,1919440.0
+IRN,IR,"Iran, Islamic Rep.",Tehran,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2024,91567738,Iran,Tehran,76923300,1648000.0
+IRQ,IQ,Iraq,Baghdad,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2024,46042015,Iraq,Baghdad,29671605,437072.0
+IRL,IE,Ireland,Dublin,Europe & Central Asia,High income,2024,5395790,Ireland,Dublin,4622917,70280.0
+IMN,IM,Isle of Man,Douglas,Europe & Central Asia,High income,2024,84160,Isle of Man,Douglas,75049,572.0
+ISR,IL,Israel,,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024,10002200,Israel,,7353985,20770.0
+ITA,IT,Italy,Rome,Europe & Central Asia,High income,2024,58952704,Italy,Rome,60340328,301230.0
+JAM,JM,Jamaica,Kingston,Latin America & Caribbean,Upper middle income,2024,2839175,Jamaica,Kingston,2847232,10991.0
+JPN,JP,Japan,Tokyo,East Asia & Pacific,High income,2024,123975371,Japan,Tokyo,127288000,377835.0
+JOR,JO,Jordan,Amman,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2024,11552876,Jordan,Amman,6407085,92300.0
+KAZ,KZ,Kazakhstan,Astana,Europe & Central Asia,Upper middle income,2024,20592571,Kazakhstan,Astana,15340000,2717300.0
+KEN,KE,Kenya,Nairobi,Sub-Saharan Africa,Lower middle income,2024,56432944,Kenya,Nairobi,40046566,582650.0
+KIR,KI,Kiribati,Tarawa,East Asia & Pacific,Lower middle income,2024,134518,Kiribati,Tarawa,92533,811.0
+PRK,KP,"Korea, Dem. People's Rep.",Pyongyang,East Asia & Pacific,Low income,2024,26498823,North Korea,Pyongyang,22912177,120540.0
+KOR,KR,"Korea, Rep.",Seoul,East Asia & Pacific,High income,2024,51751065,South Korea,Seoul,48422644,98480.0
+XKX,XK,Kosovo,Pristina,Europe & Central Asia,Upper middle income,2024,1594353,Kosovo,Pristina,1800000,10908.0
+KWT,KW,Kuwait,Kuwait City,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024,4897263,Kuwait,Kuwait City,2789132,17820.0
+KGZ,KG,Kyrgyz Republic,Bishkek,Europe & Central Asia,Lower middle income,2024,7221868,Kyrgyzstan,Bishkek,5776500,198500.0
+LAO,LA,Lao PDR,Vientiane,East Asia & Pacific,Lower middle income,2024,7769819,Laos,Vientiane,6368162,236800.0
+LVA,LV,Latvia,Riga,Europe & Central Asia,High income,2024,1866124,Latvia,Riga,2217969,64589.0
+LBN,LB,Lebanon,Beirut,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2024,5805962,Lebanon,Beirut,4125247,10400.0
+LSO,LS,Lesotho,Maseru,Sub-Saharan Africa,Lower middle income,2024,2337423,Lesotho,Maseru,1919552,30355.0
+LBR,LR,Liberia,Monrovia,Sub-Saharan Africa,Low income,2024,5612817,Liberia,Monrovia,3685076,111370.0
+LBY,LY,Libya,Tripoli,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2024,7381023,Libya,Tripoli,6461454,1759540.0
+LIE,LI,Liechtenstein,Vaduz,Europe & Central Asia,High income,2024,40450,Liechtenstein,Vaduz,35000,160.0
+LTU,LT,Lithuania,Vilnius,Europe & Central Asia,High income,2024,2888278,Lithuania,Vilnius,2944459,65200.0
+LUX,LU,Luxembourg,Luxembourg,Europe & Central Asia,High income,2024,677012,Luxembourg,Luxembourg,497538,2586.0
+MAC,MO,"Macao SAR, China",,East Asia & Pacific,High income,2024,687000,Macao,Macao,449198,254.0
+MDG,MG,Madagascar,Antananarivo,Sub-Saharan Africa,Low income,2024,31964956,Madagascar,Antananarivo,21281844,587040.0
+MWI,MW,Malawi,Lilongwe,Sub-Saharan Africa,Low income,2024,21655286,Malawi,Lilongwe,15447500,118480.0
+MYS,MY,Malaysia,Kuala Lumpur,East Asia & Pacific,Upper middle income,2024,35557673,Malaysia,Kuala Lumpur,28274729,329750.0
+MDV,MV,Maldives,Male,South Asia,Upper middle income,2024,527799,Maldives,Malé,395650,300.0
+MLI,ML,Mali,Bamako,Sub-Saharan Africa,Low income,2024,24478595,Mali,Bamako,13796354,1240000.0
+MLT,MT,Malta,Valletta,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024,568847,Malta,Valletta,403000,316.0
+MHL,MH,Marshall Islands,Majuro,East Asia & Pacific,Upper middle income,2024,37548,Marshall Islands,Majuro,65859,181.3
+MRT,MR,Mauritania,Nouakchott,Sub-Saharan Africa,Lower middle income,2024,5169395,Mauritania,Nouakchott,3205060,1030700.0
+MUS,MU,Mauritius,Port Louis,Sub-Saharan Africa,Upper middle income,2024,1245779,Mauritius,Port Louis,1294104,2040.0
+MEX,MX,Mexico,Mexico City,Latin America & Caribbean,Upper middle income,2024,130861007,Mexico,Mexico City,112468855,1972550.0
+FSM,FM,"Micronesia, Fed. Sts.",Palikir,East Asia & Pacific,Upper middle income,2024,113160,Micronesia,Palikir,107708,702.0
+MDA,MD,Moldova,Chisinau,Europe & Central Asia,Upper middle income,2024,2402306,Moldova,Chişinău,4324000,33843.0
+MCO,MC,Monaco,Monaco,Europe & Central Asia,High income,2024,38631,Monaco,Monaco,32965,1.95
+MNG,MN,Mongolia,Ulaanbaatar,East Asia & Pacific,Upper middle income,2024,3524788,Mongolia,Ulan Bator,3086918,1565000.0
+MNE,ME,Montenegro,Podgorica,Europe & Central Asia,Upper middle income,2024,623525,Montenegro,Podgorica,666730,14026.0
+MAR,MA,Morocco,Rabat,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2024,38081173,Morocco,Rabat,31627428,446550.0
+MOZ,MZ,Mozambique,Maputo,Sub-Saharan Africa,Low income,2024,34631766,Mozambique,Maputo,22061451,801590.0
+MMR,MM,Myanmar,Naypyidaw,East Asia & Pacific,Lower middle income,2024,54500091,Myanmar [Burma],Naypyitaw,53414374,678500.0
+NAM,NA,Namibia,Windhoek,Sub-Saharan Africa,Lower middle income,2024,3030131,Namibia,Windhoek,2128471,825418.0
+NRU,NR,Naoero,Yaren District,East Asia & Pacific,High income,2024,11947,Nauru,Yaren,10065,21.0
+NPL,NP,Nepal,Kathmandu,South Asia,Lower middle income,2024,29651054,Nepal,Kathmandu,28951852,140800.0
+NLD,NL,Netherlands,Amsterdam,Europe & Central Asia,High income,2024,17993485,Netherlands,Amsterdam,16645000,41526.0
+NCL,NC,New Caledonia,Noum'ea,East Asia & Pacific,High income,2024,292639,New Caledonia,Noumea,216494,19060.0
+NZL,NZ,New Zealand,Wellington,East Asia & Pacific,High income,2024,5290000,New Zealand,Wellington,4252277,268680.0
+NIC,NI,Nicaragua,Managua,Latin America & Caribbean,Lower middle income,2024,6916140,Nicaragua,Managua,5995928,129494.0
+NER,NE,Niger,Niamey,Sub-Saharan Africa,Low income,2024,27032412,Niger,Niamey,15878271,1267000.0
+NGA,NG,Nigeria,Abuja,Sub-Saharan Africa,Lower middle income,2024,232679478,Nigeria,Abuja,154000000,923768.0
+MKD,MK,North Macedonia,Skopje,Europe & Central Asia,Upper middle income,2024,1824359,Macedonia,Skopje,2062294,25333.0
+MNP,MP,Northern Mariana Islands,Saipan,East Asia & Pacific,High income,2024,44278,Northern Mariana Islands,Saipan,53883,477.0
+NOR,NO,Norway,Oslo,Europe & Central Asia,High income,2024,5572279,Norway,Oslo,5009150,324220.0
+OMN,OM,Oman,Muscat,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024,5281538,Oman,Muscat,2967717,212460.0
+PAK,PK,Pakistan,Islamabad,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2024,251269164,Pakistan,Islamabad,184404791,803940.0
+PLW,PW,Palau,Koror,East Asia & Pacific,High income,2024,17695,Palau,Melekeok,19907,458.0
+PAN,PA,Panama,Panama City,Latin America & Caribbean,High income,2024,4515577,Panama,Panama City,3410676,78200.0
+PNG,PG,Papua New Guinea,Port Moresby,East Asia & Pacific,Lower middle income,2024,10576502,Papua New Guinea,Port Moresby,6064515,462840.0
+PRY,PY,Paraguay,Asuncion,Latin America & Caribbean,Upper middle income,2024,6929153,Paraguay,Asunción,6375830,406750.0
+PER,PE,Peru,Lima,Latin America & Caribbean,Upper middle income,2024,34217848,Peru,Lima,29907003,1285220.0
+PHL,PH,Philippines,Manila,East Asia & Pacific,Upper middle income,2024,115843670,Philippines,Manila,99900177,300000.0
+POL,PL,Poland,Warsaw,Europe & Central Asia,High income,2024,36559233,Poland,Warsaw,38500000,312685.0
+PRT,PT,Portugal,Lisbon,Europe & Central Asia,High income,2024,10694681,Portugal,Lisbon,10676000,92391.0
+PRI,PR,Puerto Rico (US),San Juan,Latin America & Caribbean,High income,2024,3202521,Puerto Rico,San Juan,3916632,9104.0
+QAT,QA,Qatar,Doha,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024,2857822,Qatar,Doha,840926,11437.0
+ROU,RO,Romania,Bucharest,Europe & Central Asia,High income,2024,19051804,Romania,Bucharest,21959278,237500.0
+RUS,RU,Russian Federation,Moscow,Europe & Central Asia,High income,2024,143669648,Russia,Moscow,140702000,17100000.0
+RWA,RW,Rwanda,Kigali,Sub-Saharan Africa,Low income,2024,14256567,Rwanda,Kigali,11055976,26338.0
+WSM,WS,Samoa,Apia,East Asia & Pacific,Upper middle income,2024,218019,Samoa,Apia,192001,2944.0
+SMR,SM,San Marino,San Marino,Europe & Central Asia,High income,2024,33977,San Marino,San Marino,31477,61.2
+STP,ST,Sao Tome and Principe,Sao Tome,Sub-Saharan Africa,Lower middle income,2024,235536,São Tomé and Príncipe,São Tomé,175808,1001.0
+SAU,SA,Saudi Arabia,Riyadh,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024,35300280,Saudi Arabia,Riyadh,25731776,1960582.0
+SEN,SN,Senegal,Dakar,Sub-Saharan Africa,Lower middle income,2024,18501984,Senegal,Dakar,12323252,196190.0
+SRB,RS,Serbia,Belgrade,Europe & Central Asia,Upper middle income,2024,6586476,Serbia,Belgrade,7344847,88361.0
+SYC,SC,Seychelles,Victoria,Sub-Saharan Africa,High income,2024,121354,Seychelles,Victoria,88340,455.0
+SLE,SL,Sierra Leone,Freetown,Sub-Saharan Africa,Low income,2024,8642022,Sierra Leone,Freetown,5245695,71740.0
+SGP,SG,Singapore,Singapore,East Asia & Pacific,High income,2024,6036860,Singapore,Singapore,4701069,692.7
+SXM,SX,Sint Maarten (Dutch part),Philipsburg,Latin America & Caribbean,High income,2024,43350,Sint Maarten,Philipsburg,37429,21.0
+SVK,SK,Slovak Republic,Bratislava,Europe & Central Asia,High income,2024,5422069,Slovakia,Bratislava,5455000,48845.0
+SVN,SI,Slovenia,Ljubljana,Europe & Central Asia,High income,2024,2127400,Slovenia,Ljubljana,2007000,20273.0
+SLB,SB,Solomon Islands,Honiara,East Asia & Pacific,Lower middle income,2024,819198,Solomon Islands,Honiara,559198,28450.0
+SOM,SO,"Somalia, Fed. Rep.",Mogadishu,Sub-Saharan Africa,Low income,2024,19009151,Somalia,Mogadishu,10112453,637657.0
+ZAF,ZA,South Africa,Pretoria,Sub-Saharan Africa,Upper middle income,2024,64007187,South Africa,Pretoria,49000000,1219912.0
+SSD,SS,South Sudan,Juba,Sub-Saharan Africa,Low income,2024,11943408,South Sudan,Juba,8260490,644329.0
+ESP,ES,Spain,Madrid,Europe & Central Asia,High income,2024,48848840,Spain,Madrid,46505963,504782.0
+LKA,LK,Sri Lanka,Colombo,South Asia,Upper middle income,2024,21916000,Sri Lanka,Colombo,21513990,65610.0
+KNA,KN,St. Kitts and Nevis,Basseterre,Latin America & Caribbean,High income,2024,46843,Saint Kitts and Nevis,Basseterre,51134,261.0
+LCA,LC,St. Lucia,Castries,Latin America & Caribbean,Upper middle income,2024,179744,Saint Lucia,Castries,160922,616.0
+MAF,MF,St. Martin (French part),Marigot,Latin America & Caribbean,High income,2024,26129,Saint Martin,Marigot,35925,53.0
+VCT,VC,St. Vincent and the Grenadines,Kingstown,Latin America & Caribbean,Upper middle income,2024,100616,Saint Vincent and the Grenadines,Kingstown,104217,389.0
+SDN,SD,Sudan,Khartoum,Sub-Saharan Africa,Low income,2024,50448963,Sudan,Khartoum,35000000,1861484.0
+SUR,SR,Suriname,Paramaribo,Latin America & Caribbean,Upper middle income,2024,634431,Suriname,Paramaribo,492829,163270.0
+SWE,SE,Sweden,Stockholm,Europe & Central Asia,High income,2024,10569709,Sweden,Stockholm,9828655,449964.0
+CHE,CH,Switzerland,Bern,Europe & Central Asia,High income,2024,9005582,Switzerland,Bern,7581000,41290.0
+SYR,SY,Syrian Arab Republic,Damascus,"Middle East, North Africa, Afghanistan & Pakistan",Low income,2024,24672760,Syria,Damascus,22198110,185180.0
+TJK,TJ,Tajikistan,Dushanbe,Europe & Central Asia,Lower middle income,2024,10590927,Tajikistan,Dushanbe,7487489,143100.0
+TZA,TZ,Tanzania,Dodoma,Sub-Saharan Africa,Lower middle income,2024,68560157,Tanzania,Dodoma,41892895,945087.0
+THA,TH,Thailand,Bangkok,East Asia & Pacific,Upper middle income,2024,71668011,Thailand,Bangkok,67089500,514000.0
+TLS,TL,Timor-Leste,Dili,East Asia & Pacific,Lower middle income,2024,1400638,East Timor,Dili,1154625,15007.0
+TGO,TG,Togo,Lome,Sub-Saharan Africa,Lower middle income,2024,8406558,Togo,Lomé,6587239,56785.0
+TON,TO,Tonga,Nuku'alofa,East Asia & Pacific,Upper middle income,2024,104175,Tonga,Nuku'alofa,122580,748.0
+TTO,TT,Trinidad and Tobago,Port-of-Spain,Latin America & Caribbean,High income,2024,1368333,Trinidad and Tobago,Port of Spain,1228691,5128.0
+TUN,TN,Tunisia,Tunis,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2024,12277109,Tunisia,Tunis,10589025,163610.0
+TUR,TR,Turkiye,Ankara,Europe & Central Asia,Upper middle income,2024,85518661,Turkey,Ankara,77804122,780580.0
+TKM,TM,Turkmenistan,Ashgabat,Europe & Central Asia,Upper middle income,2024,7494498,Turkmenistan,Ashgabat,4940916,488100.0
+TCA,TC,Turks and Caicos Islands,Grand Turk,Latin America & Caribbean,High income,2024,46535,Turks and Caicos Islands,Cockburn Town,20556,430.0
+TUV,TV,Tuvalu,Funafuti,East Asia & Pacific,Upper middle income,2024,9646,Tuvalu,Funafuti,10472,26.0
+UGA,UG,Uganda,Kampala,Sub-Saharan Africa,Low income,2024,50015092,Uganda,Kampala,33398682,236040.0
+UKR,UA,Ukraine,Kiev,Europe & Central Asia,Upper middle income,2024,37860221,Ukraine,Kiev,45415596,603700.0
+ARE,AE,United Arab Emirates,Abu Dhabi,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024,10986400,United Arab Emirates,Abu Dhabi,4975593,82880.0
+GBR,GB,United Kingdom,London,Europe & Central Asia,High income,2024,69281000,United Kingdom,London,62348447,244820.0
+USA,US,United States,Washington D.C.,North America,High income,2024,340003797,United States,Washington,310232863,9629091.0
+URY,UY,Uruguay,Montevideo,Latin America & Caribbean,High income,2024,3386588,Uruguay,Montevideo,3477000,176220.0
+UZB,UZ,Uzbekistan,Tashkent,Europe & Central Asia,Lower middle income,2024,36361859,Uzbekistan,Tashkent,27865738,447400.0
+VUT,VU,Vanuatu,Port-Vila,East Asia & Pacific,Lower middle income,2024,327777,Vanuatu,Port Vila,221552,12200.0
+VEN,VE,"Venezuela, RB",Caracas,Latin America & Caribbean,Lower middle income,2024,28405543,Venezuela,Caracas,27223228,912050.0
+VNM,VN,Viet Nam,Hanoi,East Asia & Pacific,Upper middle income,2024,100987686,Vietnam,Hanoi,89571130,329560.0
+VIR,VI,Virgin Islands (U.S.),Charlotte Amalie,Latin America & Caribbean,High income,2024,104377,U.S. Virgin Islands,Charlotte Amalie,108708,352.0
+PSE,PS,West Bank and Gaza,,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2024,5289152,Palestine,,3800000,5970.0
+YEM,YE,"Yemen, Rep.",Sana'a,"Middle East, North Africa, Afghanistan & Pakistan",Low income,2024,40583164,Yemen,Sanaa,23495361,527970.0
+ZMB,ZM,Zambia,Lusaka,Sub-Saharan Africa,Lower middle income,2024,21314956,Zambia,Lusaka,13460305,752614.0
+ZWE,ZW,Zimbabwe,Harare,Sub-Saharan Africa,Lower middle income,2024,16634373,Zimbabwe,Harare,11651858,390580.0
