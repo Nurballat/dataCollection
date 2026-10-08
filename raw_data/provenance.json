@@ -1,0 +1,65 @@
+[
+  {
+    "source": "World Bank",
+    "url": "https://api.worldbank.org/v2/country?format=json&per_page=100&page=1",
+    "status": 200,
+    "collected_utc": "2026-10-08T21:54:05.715748+00:00",
+    "snapshot": "raw_data/country_page_1.json",
+    "sha256": "1d567bc9043f2a49f21bb63aa14ca8aa8ad9de9ea6c7ee19cca8763ba1f7f41b"
+  },
+  {
+    "source": "World Bank",
+    "url": "https://api.worldbank.org/v2/country?format=json&per_page=100&page=2",
+    "status": 200,
+    "collected_utc": "2026-10-08T21:54:05.974541+00:00",
+    "snapshot": "raw_data/country_page_2.json",
+    "sha256": "f32e5d7dd32b26ab41c17a70f3bf2ad734fdca4e8d554cb3a69d59084241e055"
+  },
+  {
+    "source": "World Bank",
+    "url": "https://api.worldbank.org/v2/country?format=json&per_page=100&page=3",
+    "status": 200,
+    "collected_utc": "2026-10-08T21:54:06.241975+00:00",
+    "snapshot": "raw_data/country_page_3.json",
+    "sha256": "1ed99242ade8f03c139a96fa95fd1a2bccb6822f197a824100a88d771df7c405"
+  },
+  {
+    "source": "World Bank",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=json&date=2024&per_page=100&page=1",
+    "status": 200,
+    "collected_utc": "2026-10-08T21:54:06.402239+00:00",
+    "snapshot": "raw_data/population_page_1.json",
+    "sha256": "669cfe26bf34973495172da36286431499cdeb41f56eb6c479bfb45d6c040e7f"
+  },
+  {
+    "source": "World Bank",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=json&date=2024&per_page=100&page=2",
+    "status": 200,
+    "collected_utc": "2026-10-08T21:54:06.672886+00:00",
+    "snapshot": "raw_data/population_page_2.json",
+    "sha256": "0d328d91ecc18a5c2c54e20c4f5c632460d83e73358ab435c45e1558903e5cf8"
+  },
+  {
+    "source": "World Bank",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=json&date=2024&per_page=100&page=3",
+    "status": 200,
+    "collected_utc": "2026-10-08T21:54:07.016405+00:00",
+    "snapshot": "raw_data/population_page_3.json",
+    "sha256": "2ce7bf3f9d3074537d8bb53b70814675d768a6ef61ccfe14b993ab5b732001e4"
+  },
+  {
+    "source": "robots policy",
+    "url": "https://www.scrapethissite.com/robots.txt",
+    "status": 200,
+    "collected_utc": "2026-10-08T21:54:14.913493+00:00",
+    "snapshot": "raw_data/robots.txt"
+  },
+  {
+    "source": "Scrape This Site",
+    "url": "https://www.scrapethissite.com/pages/simple/",
+    "status": 200,
+    "collected_utc": "2026-10-08T21:54:16.231253+00:00",
+    "snapshot": "raw_data/countries.html",
+    "sha256": "4c68c2a54000607a0fa51ea5a57a20bbe4324dee74c442559185a1da364bd87b"
+  }
+]
